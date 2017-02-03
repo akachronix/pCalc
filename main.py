@@ -1,3 +1,7 @@
+# pCalc v0.01
+# by Chronix
+# https://www.github.com/akachronix
+
 print("Welcome to pCalc v0.01.\nby Brendan Gowen\n")
 op = input("What operation to you what to perform?")
 num1 = float(input("\nPlease enter a number."))
